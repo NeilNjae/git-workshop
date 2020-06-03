@@ -1,7 +1,7 @@
 # Frankenstein, by Mary Shelly 
 > Text from https://www.gutenberg.org/files/84/84-0.txt
 
-# Commit 1
+# Fancy words Commit 1
 
 ## Letter 1
 
@@ -15,7 +15,7 @@ forebodings.  I arrived here yesterday, and my first task is to assure
 my dear sister of my welfare and increasing confidence in the success
 of my undertaking.
 
-# Commit 2
+# Commit 2 with extra words at the end
 
 I am already far north of London, and as I walk in the streets of
 Petersburgh, I feel a cold northern breeze play upon my cheeks, which
