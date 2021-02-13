@@ -1,7 +1,7 @@
 # Frankenstein, by Mary Shelly 
 > Text from https://www.gutenberg.org/files/84/84-0.txt
 
-# Fancy words Commit 1
+# Commit 1
 
 ## Letter 1
 
@@ -15,7 +15,7 @@ forebodings.  I arrived here yesterday, and my first task is to assure
 my dear sister of my welfare and increasing confidence in the success
 of my undertaking.
 
-# Commit 2 with extra words at the end
+# Commit 2
 
 I am already far north of London, and as I walk in the streets of
 Petersburgh, I feel a cold northern breeze play upon my cheeks, which
@@ -37,18 +37,3 @@ and, sailing over a calm sea, we may be wafted to a land surpassing in
 wonders and in beauty every region hitherto discovered on the habitable
 globe.  
 
-# Commit 4
-
-Its productions and features may be without example, as the
-phenomena of the heavenly bodies undoubtedly are in those undiscovered
-solitudes.  What may not be expected in a country of eternal light?  I
-may there discover the wondrous power which attracts the needle and may
-regulate a thousand celestial observations that require only this
-voyage to render their seeming eccentricities consistent for ever.  I
-shall satiate my ardent curiosity with the sight of a part of the world
-never before visited, and may tread a land never before imprinted by
-the foot of man. These are my enticements, and they are sufficient to
-conquer all fear of danger or death and to induce me to commence this
-laborious voyage with the joy a child feels when he embarks in a little
-boat, with his holiday mates, on an expedition of discovery up his
-native river. 
