@@ -1,28 +1,28 @@
-# Carmilla, by J. Sheridan LeFanu
-> Text from https://www.gutenberg.org/cache/epub/10007/pg10007.txt
+# Carmilla, By J. Sheridan LeFanu
+> Text From Https://Www.Gutenberg.Org/Cache/Epub/10007/Pg10007.Txt
 
 # Commit 1
 
-In Styria, we, though by no means magnificent people, inhabit a castle,
-or schloss. A small income, in that part of the world, goes a great way.
-Eight or nine hundred a year does wonders. Scantily enough ours would
-have answered among wealthy people at home. My father is English, and I
-bear an English name, although I never saw England. But here, in this
-lonely and primitive place, where everything is so marvelously cheap, I
-really don't see how ever so much more money would at all materially add
-to our comforts, or even luxuries.
+In Styria, We, Though By No Means Magnificent People, Inhabit A Castle,
+Or Schloss. A Small Income, In That Part Of The World, Goes A Great Way.
+Eight Or Nine Hundred A Year Does Wonders. Scantily Enough Ours Would
+Have Answered Among Wealthy People At Home. My Father Is English, And I
+Bear An English Name, Although I Never Saw England. But Here, In This
+Lonely And Primitive Place, Where Everything Is So Marvelously Cheap, I
+Really Don'T See How Ever So Much More Money Would At All Materially Add
+To Our Comforts, Or Even Luxuries.
 
 # Commit 2
 
-My father was in the Austrian service, and retired upon a pension and
-his patrimony, and purchased this feudal residence, and the small estate
-on which it stands, a bargain.
+My Father Was In The Austrian Service, And Retired Upon A Pension And
+His Patrimony, And Purchased This Feudal Residence, And The Small Estate
+On Which It Stands, A Bargain.
 
 # Commit 3
 
-Nothing can be more picturesque or solitary. It stands on a slight
-eminence in a forest. The road, very old and narrow, passes in front of
-its drawbridge, never raised in my time, and its moat, stocked with
-perch, and sailed over by many swans, and floating on its surface white
-fleets of water lilies.
+Nothing Can Be More Picturesque Or Solitary. It Stands On A Slight
+Eminence In A Forest. The Road, Very Old And Narrow, Passes In Front Of
+Its Drawbridge, Never Raised In My Time, And Its Moat, Stocked With
+Perch, And Sailed Over By Many Swans, And Floating On Its Surface White
+Fleets Of Water Lilies.
 
